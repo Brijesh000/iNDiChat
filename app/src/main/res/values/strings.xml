@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">iNDiChat</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="button">Button</string>
+    <string name="Continue">CONTINUE</string>
+    <string name="indi_chat_will_send_sms_message_to_verify_your_phone_number">iNDi Chat will send SMS message to verify your phone number.</string>
 </resources>
